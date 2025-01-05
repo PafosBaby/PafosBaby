@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-<img  src="https://github.com/PafosBaby/PafosBaby/blob/main/gif-top.gif" widh="600">
+<img  src="https://github.com/PafosBaby/PafosBaby/blob/main/gif-top.gif" widh="1000">
